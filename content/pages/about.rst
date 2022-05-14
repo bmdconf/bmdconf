@@ -22,6 +22,10 @@ interaction between participants as possible. The format is informal and fluid,
 with a single track of presentations and extensive time scheduled for
 interaction, and the forming and sharing of ideas.
 
+**BMD 2022 has been postponed to the fall of 2023. The conference will be held
+in Delft, Netherlands with Jason K. Moore <j.k.moore@tudelft.nl> as the lead
+organizer.**
+
 A scientific committee is selected for each conference. Past scientific
 committee members are:
 
