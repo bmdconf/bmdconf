@@ -17,5 +17,6 @@ jobs:
     - uses: actions/checkout@v2
     - uses: nelsonjchen/gh-pages-pelican-action@0.1.10
       env:
-        PELICAN_CONFIG_FILE: publishconf.py
+        GH_PAGES_CNAME: bmdconf.org
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        PELICAN_CONFIG_FILE: publishconf.py
