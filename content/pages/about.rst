@@ -24,7 +24,8 @@ interaction, and the forming and sharing of ideas.
 
 **BMD 2022 has been postponed to October 18-20, 2023. The conference will be
 held in Delft, The Netherlands with Jason K. Moore <j.k.moore@tudelft.nl> as
-the organizer. See http://2023.bmdconf.org for more information.**
+the organizer.** See `2023.bmdconf.org <http://2023.bmdconf.org>`_ for more
+information.
 
 A scientific committee is selected for each conference. Past scientific
 committee members are:
