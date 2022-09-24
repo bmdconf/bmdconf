@@ -26,6 +26,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 
 PASTCONFS = (
+    ('BMD 2023 (Delft)', 'http://2023.bmdconf.org/'),
     ('BMD 2019 (Padua)', 'http://www.bmd2019.org/'),
     ('BMD 2016 (Milwaukee)',
      'https://web.archive.org/web/20190113222310/http://www.bmd2016mke.org/'),
@@ -47,6 +48,8 @@ LINKS = (
      'http://people.uwm.edu/bike-motorcycle-lab/'),
     ('Rutgers Bicycle and Motorcycle Control Research',
      'http://coewww.rutgers.edu/~jgyi/'),
+    ('Hochschule Karlsruhe Bike Lab',
+     'https://www.h-ka.de/en/ieem/equipment/bike-lab'),
     ('Good Bicycle Science Blog', 'https://goodbicyclescience.com/'),
     ('Bad Bicycle Science Blog', 'https://badbicyclescience.com/'),
 )
