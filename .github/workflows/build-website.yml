@@ -15,6 +15,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Install pelican-themes
+      run: |
+        git clone --depth=1 https://github.com/getpelican/pelican-themes.git
     - uses: nelsonjchen/gh-pages-pelican-action@0.1.10
       env:
         GH_PAGES_CNAME: bmdconf.org
