@@ -38,8 +38,6 @@ PASTCONFS = (
 )
 
 LINKS = (
-    (r'University of Padua<br>Motorcycle Dynamics<br>Research Group',
-     'http://www.dinamoto.it/'),
     ('Polytechnic University<br>of Milan MOVE',
      'https://www.move.deib.polimi.it/'),
     ('TU Delft Bicycle Lab', 'http://bicycle.tudelft.nl'),
