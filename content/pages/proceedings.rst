@@ -2,15 +2,17 @@
 :sortorder: 1
 
 At each conference we ask the presenters to write a paper for the conference
-proceedings. The proceedings are not peer reviewed and are effectively
-preprints_. The authors are then welcome to submit the work to a journal of
-their choice following the conference.
+proceedings. Before 2023, the proceedings were not peer reviewed and could be
+considered as preprints_. Starting in 2023, the proceedings are peer reviewed
+and published in a proceedings book.
 
+- `BMD 2023 Proceedings`_
 - `BMD 2019 Proceedings`_
 - `BMD 2016 Proceedings`_
 - `BMD 2010 Proceedings`_
 
 .. _preprints: https://en.wikipedia.org/wiki/Preprint
+.. _BMD 2023 Proceedings: https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view
 .. _BMD 2019 Proceedings: https://bmd2019.figshare.com
 .. _BMD 2016 Proceedings: https://figshare.com/collections/Proceedings_of_the_2016_Bicycle_and_Motorcycle_Dynamics_Conference/3460590
 .. _BMD 2010 Proceedings: http://www.bicycle.tudelft.nl/ProceedingsBMD2010

@@ -22,38 +22,55 @@ interaction between participants as possible. The format is informal and fluid,
 with a single track of presentations and extensive time scheduled for
 interaction, and the forming and sharing of ideas.
 
-**BMD 2022 has been postponed to October 18-20, 2023. The conference will be
-held in Delft, The Netherlands with Jason K. Moore <j.k.moore@tudelft.nl> as
-the organizer.** See `2023.bmdconf.org <http://2023.bmdconf.org>`_ for more
-information.
+**BMD 2026 will be held in Hamamatsu, Japan with Tomoya Kitani at Shizuoka
+University as the organizer. More info will be posted in the coming months.**
 
 A scientific committee is selected for each conference. Past scientific
 committee members are:
 
-- Alessandro Beghi, University of Padova, Italy
-- Jim Brendelson, Harley-Davidson Motor Company, USA
 - Alberto Doria, University of Padua, Italy
+- Alejandra Polanco, University Gustave Eiffel
+- Alessandro Beghi, University of Padova, Italy
+- Alka Gupta, Harley Davidson
 - Andrew Dressel, University of Wisconsin-Milwaukee, USA
-- Simos Evangelou, Imperial College London, UK
-- Mont Hubbard, University of California Davis, USA
-- Ichiro Kageyama, Nihon University, Japan
-- Tsuyoshi Katayama, Kurume Institute of Technology, Japan
-- David Limebeer, University of Oxford, UK
-- Roberto Lot, University of Southampton, UK
-- Jay Maas, Trek Bicycle Corporation, USA
-- Matteo Massaro, University of Padova, Italy
-- Jaap Meijaard, Olton Engineering, The Netherlands
-- Jason K. Moore, University of California Davis, USA
-- Luis Muñoz, Universidad de los Andes, Colombia
-- Hidekazu Nishimura, Keio University, Japan
-- Jim Papadopoulos, Northeastern University, USA
-- Manfred Plöchl, Technische Universitat Wien, Austria
-- Marco Pierini, University of Florence, Italy
-- Atanas Popov, University of Nottingham, UK
-- Giulio Rosati, University of Padova, Italy
 - Andy Ruina, Cornell University, USA
-- James Sadauckas, Harley-Davidson Motor Company, USA
-- Sergio Savaresi, Politechnico di Milano, Italy
 - Arend Schwab, Delft University of Technology, The Netherlands
-- Mio Suzuki, Trek Bicycle Corporation, USA
+- Arno Stienen, Delft University of Technology
+- Atanas Popov, University of Nottingham, UK
+- David Limebeer, University of Oxford, UK
+- Eric Maris, Radboud University
+- Gianpiero Mastinu, Polytechnic University of Milan
+- Giulio Rosati, University of Padova, Italy
 - Hermann Winner, Technische Universität Darmstadt, Germany
+- Hidekazu Nishimura, Keio University, Japan
+- Ichiro Kageyama, Nihon University, Japan
+- Jaap Meijaard, Olton Engineering, The Netherlands
+- James Sadauckas, Trek Bicycle Corporation, USA
+- Jason K. Moore, University of California Davis, USA
+- Jay Maas, Trek Bicycle Corporation, USA
+- Jim Brendelson, Cycle Scientific LLC, USA
+- Jim Papadopoulos, Northeastern University, USA
+- Jodi Kooijman, Swugo B.V.
+- Jürgen Wrede, Pforzheim University
+- Linda van der Spaa, Delft University of Technology
+- Luis Muñoz, Universidad de los Andes, Colombia
+- Manfred Plöchl, Technische Universitat Wien, Austria
+- Marco Dozza, Chalmers University of Technology
+- Marco Pezzola, MUNER, Alma Mater Studiorum – Università di Bologna
+- Marco Pierini, University of Florence, Italy
+- Matteo Corno, Polytechnic University of Milan
+- Matteo Massaro, University of Padova, Italy
+- Mattia Bruschetta, University of Padua
+- Michael Taylor, Harley Davidson
+- Mio Suzuki, Trek Bicycle Corporation, USA
+- Mont Hubbard, University of California Davis, USA
+- Nicolay Ruffo, VI-grade Srl
+- Riender Happee, Delft University of Technology
+- Roberto Lot, University of Padua, UK
+- Sam Brockie, Delft University of Technology
+- Sergio Savaresi, Politechnico di Milano, Italy
+- Simos Evangelou, Imperial College London, UK
+- Siri Berge, Delft University of Technology
+- Stephen Cain, West Virginia University
+- Tomoya Kitani, Shizuoka University
+- Tsuyoshi Katayama, Kurume Institute of Technology, Japan
