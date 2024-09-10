@@ -27,7 +27,8 @@ AUTHOR_FEED_RSS = None
 
 PASTCONFS = (
     ('BMD 2023 (Delft)', 'http://2023.bmdconf.org/'),
-    ('BMD 2019 (Padua)', 'http://www.bmd2019.org/'),
+    ('BMD 2019 (Padua)',
+     'https://web.archive.org/web/20240616130654/https://bmd2019.org/'),
     ('BMD 2016 (Milwaukee)',
      'https://web.archive.org/web/20190113222310/http://www.bmd2016mke.org/'),
     ('BMD 2013 (Narashino)',
