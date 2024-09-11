@@ -11,11 +11,11 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
 
     steps:
-    - uses: actions/checkout@v2
-    - uses: nelsonjchen/gh-pages-pelican-action@0.1.10
+    - uses: actions/checkout@v5
+    - uses: nelsonjchen/gh-pages-pelican-action@0.2.0
       env:
         GH_PAGES_CNAME: bmdconf.org
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
