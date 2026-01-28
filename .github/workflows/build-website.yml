@@ -11,12 +11,30 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: [3.13]
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: nelsonjchen/gh-pages-pelican-action@0.2.0
-      env:
-        GH_PAGES_CNAME: bmdconf.org
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        PELICAN_CONFIG_FILE: publishconf.py
+    - uses: actions/checkout@v6
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v6
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install pelican ghp-import
+    - name: Build the website
+      run: |
+        pelican -D -v --fatal errors -s publishconf.py -o output
+        cp CNAME output/CNAME
+    - name: Deploy the website
+      if: ${{ github.event_name == 'push' }}
+      run: |
+        git config --global user.name "Github Actions"
+        git config --global user.email bmdconf@users.noreply.github.com
+        git remote add deploy "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/bmdconf/bmdconf.git"
+        ghp-import --no-history -r deploy -b gh-pages -m "Updated via Github Actions [skip ci]" -p output
