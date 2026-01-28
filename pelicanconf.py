@@ -12,7 +12,7 @@ BOOTSTRAP_THEME = 'lumen'
 CC_LICENSE = "CC-BY"
 PAGE_ORDER_BY = 'sortorder'
 
-TIMEZONE = 'US/Pacific'
+TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
