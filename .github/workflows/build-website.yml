@@ -30,11 +30,10 @@ jobs:
     - name: Build the website
       run: |
         pelican -D -v --fatal errors -s publishconf.py -o output
-        cp CNAME output/CNAME
     - name: Deploy the website
       if: ${{ github.event_name == 'push' }}
       run: |
         git config --global user.name "Github Actions"
         git config --global user.email bmdconf@users.noreply.github.com
         git remote add deploy "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/bmdconf/bmdconf.git"
-        ghp-import --no-history -r deploy -b gh-pages -m "Updated via Github Actions [skip ci]" -p output
+        ghp-import --no-history --cname="bmdconf.org" -r deploy -b gh-pages -m "Updated via Github Actions [skip ci]" -p output
