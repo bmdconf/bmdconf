@@ -22,8 +22,9 @@ interaction between participants as possible. The format is informal and fluid,
 with a single track of presentations and extensive time scheduled for
 interaction, and the forming and sharing of ideas.
 
-**BMD 2026 will be held in Hamamatsu, Japan with Tomoya Kitani at Shizuoka
-University as the organizer. More info will be posted in the coming months.**
+**BMD 2026 will unfortunately not be held in Hamamatsu, Japan this year. We are
+seeking a host for the next conference. More info will be posted in the coming
+months.**
 
 A scientific committee is selected for each conference. Past scientific
 committee members are:
