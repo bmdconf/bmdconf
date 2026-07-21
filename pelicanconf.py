@@ -41,6 +41,7 @@ PASTCONFS = (
 LINKS = (
     ('bmdconf Github Organization',
      'https://github.com/bmdconf'),
+    ('Wikipedia BMD', 'https://en.wikipedia.org/wiki/Bicycle_and_motorcycle_dynamics'),
     ('Polytechnic University<br>of Milan MOVE',
      'https://www.move.deib.polimi.it/'),
     ('TU Delft Bicycle Lab', 'http://bicycle.tudelft.nl'),
@@ -48,13 +49,10 @@ LINKS = (
      'http://ruina.tam.cornell.edu/research/topics/bicycle_mechanics/overview.php'),
     ('UW Milwaukee Bicycle and Motorcycle Engineering Research Laboratory',
      'http://people.uwm.edu/bike-motorcycle-lab/'),
-    ('Rutgers Bicycle and Motorcycle Control Research',
-     'http://coewww.rutgers.edu/~jgyi/'),
     ('Hochschule Karlsruhe Bike Lab',
      'https://www.h-ka.de/en/ieem/equipment/bike-lab'),
     ('Good Bicycle Science Blog', 'https://goodbicyclescience.com/'),
     ('Bad Bicycle Science Blog', 'https://badbicyclescience.com/'),
-    ('Wikipedia BMD', 'https://en.wikipedia.org/wiki/Bicycle_and_motorcycle_dynamics'),
 )
 
 # Social widget
