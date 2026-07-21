@@ -26,6 +26,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 
 PASTCONFS = (
+    ('BMD 2027 (Lyon)', '/save-the-date-bmd-2027-june-9-11-lyon.html'),
     ('BMD 2023 (Delft)', 'http://2023.bmdconf.org/'),
     ('BMD 2019 (Padua)',
      'https://web.archive.org/web/20240616130654/https://bmd2019.org/'),

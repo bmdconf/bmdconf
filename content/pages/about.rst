@@ -22,9 +22,21 @@ interaction between participants as possible. The format is informal and fluid,
 with a single track of presentations and extensive time scheduled for
 interaction, and the forming and sharing of ideas.
 
-**BMD 2026 will unfortunately not be held in Hamamatsu, Japan this year. We are
-seeking a host for the next conference. More info will be posted in the coming
-months.**
+.. attention::
+   :class: col-lg-12 alert-warning
+
+   .. image:: https://mechmotum.s3.us-east-005.dream.io/bmd-2027-banner.png
+      :height: 200px
+      :align: center
+      :target: {filename}/announcing-bmd-2027.rst
+
+   The next BMD will be held **June 9-11, 2027 in Lyon, France**. It is
+   co-hosted by Lyon1 Université Claude Bernard and Université Gustave Eiffel
+   led by conference chair Dr. Thomas Robert. See `the announcement
+   <{filename}/announcing-bmd-2027.rst>`_.
+
+Scientific Committee
+====================
 
 A scientific committee is selected for each conference. Past scientific
 committee members are:
