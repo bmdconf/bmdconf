@@ -54,6 +54,7 @@ LINKS = (
      'https://www.h-ka.de/en/ieem/equipment/bike-lab'),
     ('Good Bicycle Science Blog', 'https://goodbicyclescience.com/'),
     ('Bad Bicycle Science Blog', 'https://badbicyclescience.com/'),
+    ('Wikipedia BMD', 'https://en.wikipedia.org/wiki/Bicycle_and_motorcycle_dynamics'),
 )
 
 # Social widget
