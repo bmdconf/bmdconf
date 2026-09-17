@@ -28,12 +28,12 @@ interaction, and the forming and sharing of ideas.
    .. image:: https://mechmotum.s3.us-east-005.dream.io/bmd-2027-banner.png
       :height: 200px
       :align: center
-      :target: {filename}/announcing-bmd-2027.rst
+      :target: https://bmd2027.sciencesconf.org
 
    The next BMD will be held **June 9-11, 2027 in Lyon, France**. It is
    co-hosted by Lyon1 Université Claude Bernard and Université Gustave Eiffel
-   led by conference chair Dr. Thomas Robert. See `the announcement
-   <{filename}/announcing-bmd-2027.rst>`_.
+   led by conference chair Dr. Thomas Robert. See the `conference website
+   <https://bmd2027.sciencesconf.org/>`_ for up-to-date information.
 
 Scientific Committee
 ====================
